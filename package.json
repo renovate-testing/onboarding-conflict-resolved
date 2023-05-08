@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "pino": "6.14.0"
+    "ajv": "8.0.0"
   }
 }
